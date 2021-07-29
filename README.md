@@ -1,6 +1,5 @@
 [![Formatter](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Build Status](https://github.com/Barbora-Data-Science/simple-sqla-timer/actions/workflows/main.yml/badge.svg)](https://github.com/Barbora-Data-Science/simple-sqla-timer/actions/workflows/main.yml)
-[![codecov](https://codecov.io/gh/Barbora-Data-Science/simple-sqla-timer/branch/main/graph/badge.svg?token=MJSSVCSFJV)](https://codecov.io/gh/Barbora-Data-Science/simple-sqla-timer)
 [![PyPI version](https://badge.fury.io/py/simple-sqla-timer.svg)](https://pypi.org/project/simple-sqla-timer/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/simple-sqla-timer)](https://pypi.org/project/simple-sqla-timer/)
 
